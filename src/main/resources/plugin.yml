@@ -1,0 +1,5 @@
+name: PixelPay
+version: '${project.version}'
+main: de.kalitrius.pixelpay.Main
+api-version: '1.20'
+depend: []
